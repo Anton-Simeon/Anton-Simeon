@@ -10,7 +10,7 @@
 
 ## 🚀 Start here
 
-**Portfolio:** [anton-simeon.github.io](https://anton-simeon.github.io)
+**Portfolio:** [anton-simeon.github.io/portfolio](https://anton-simeon.github.io/portfolio/)
 
 | Project | What it shows | Links |
 |---|---|---|
